@@ -1,0 +1,14 @@
+body {
+    background-color: aquamarine;
+    font-size: 10px;
+}
+.meetic-container-inscription input{
+display: block;
+}
+.meetic-container-inscription label{
+    display: block;
+    font-size: 45px;
+    }
+    .form-sub-container {
+        margin: 10px;
+    }
